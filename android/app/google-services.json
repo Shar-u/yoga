@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007943887038",
+    "project_id": "yogamonitoringsystem",
+    "storage_bucket": "yogamonitoringsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007943887038:android:679479b61fa2569e3496ef",
+        "android_client_info": {
+          "package_name": "com.example.user_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007943887038-6gjtroq9588v5ko19rjot85eulac5hmg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6PKYl-rG0dfYWOtPceclDb9uZG3TjyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007943887038-6gjtroq9588v5ko19rjot85eulac5hmg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
